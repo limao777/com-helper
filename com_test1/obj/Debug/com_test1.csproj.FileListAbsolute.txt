@@ -1,0 +1,8 @@
+F:\VS2008_projects\com_test1\com_test1\bin\Debug\com_test1.exe
+F:\VS2008_projects\com_test1\com_test1\bin\Debug\com_test1.pdb
+F:\VS2008_projects\com_test1\com_test1\obj\Debug\ResolveAssemblyReference.cache
+F:\VS2008_projects\com_test1\com_test1\obj\Debug\com_test1.Form1.resources
+F:\VS2008_projects\com_test1\com_test1\obj\Debug\com_test1.Properties.Resources.resources
+F:\VS2008_projects\com_test1\com_test1\obj\Debug\com_test1.csproj.GenerateResource.Cache
+F:\VS2008_projects\com_test1\com_test1\obj\Debug\com_test1.exe
+F:\VS2008_projects\com_test1\com_test1\obj\Debug\com_test1.pdb
